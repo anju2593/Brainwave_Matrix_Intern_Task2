@@ -6,9 +6,11 @@ Using a dataset of tweets, the text data undergoes preprocessing, including text
 
 
 Key aspects covered in this project:
-•	Data Cleaning & Preprocessing: Removing special characters, stop words, and unnecessary elements.
-•	Sentiment Classification: Using TextBlob and supervised ML models.
-•	Data Visualization: Word clouds and hashtag frequency distributions for sentiment analysis.
-•	Feature Extraction: Implementing Bag of Words (BoW) for text representation.
-•	Model Training & Evaluation: Using Logistic Regression to classify tweet sentiments.
+
+   •	Data Cleaning & Preprocessing: Removing special characters, stop words, and unnecessary elements.
+   •	Sentiment Classification: Using TextBlob and supervised ML models.
+   •	Data Visualization: Word clouds and hashtag frequency distributions for sentiment analysis.
+   •	Feature Extraction: Implementing Bag of Words (BoW) for text representation.
+   •	Model Training & Evaluation: Using Logistic Regression to classify tweet sentiments.
+
 This analysis helps businesses, researchers, and policymakers understand public opinion trends and make informed decisions based on social media sentiment.
